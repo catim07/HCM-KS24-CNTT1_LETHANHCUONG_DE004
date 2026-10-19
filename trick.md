@@ -157,7 +157,7 @@ Tên Secret	Giá trị (Value) điền vào
 SERVER_USER	cuongcatim
 SERVER_HOST	103.72.57.148
 SERVER_PORT	22
-SERVER_SSH_KEY	(Mở PowerShell chạy lệnh: Get-Content "$HOME\.ssh\id_k24cntt1" | Set-Clipboard rồi paste vào)
+   SERVER_SSH_KEY	(Mở PowerShell chạy lệnh: Get-Content "$HOME\.ssh\id_k24cntt1" | Set-Clipboard rồi paste vào)
 DOCKER_USER	eggplant07
 DOCKER_PAT	(Token Docker Hub quyền Read & Write)
 DB_NAME	taskdb (hoặc tên database trong file sql của đề thi)
